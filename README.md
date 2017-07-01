@@ -1,5 +1,5 @@
 # Internet blocker
-This is set of simple scripts that disable Internet on your Wi-Fi router at night to allow you sleep instead of browsing.
+This is set of simple scripts that disable Internet (HTTP/HTTPS) on your Wi-Fi router at night to allow you sleep instead of browsing.
 
 Idea is to stop Internet routing and send all your requests to the local http server at specific time of a day (2 AM
  for default). In the morning (8 AM) everything will be restored. 
